@@ -3,7 +3,7 @@
 product engineer @ shippit. full-stack on a tokenized real-estate platform (BWB) — front-end, backend, blockchain architecture. plus front-end and claude plugin development across shippit's internal products.
 
 **cofounder of:**
-- notus labs (2023–2025, COO) — shipped chainless at blockchain rio
+- notus labs (2023–2025, COO) — shipped chainless, a brazilian crypto-fintech mobile app, at blockchain rio
 - luxy (2021–2022, project lead) — multichain NFT marketplace
 
 **personal projects:**
