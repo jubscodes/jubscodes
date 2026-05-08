@@ -1,9 +1,15 @@
 # hey, i'm jubs ✧
 
-design engineer. building tools that bring design process into AI coding workflows.
+product engineer @ shippit. full-stack on a tokenized real-estate platform (BWB), plus brand/design/front-end/claude plugins for shippit's internal products.
 
-**currently shipping:**
+**ex:**
+- cofounder & COO @ notus labs (2023–2025) — launched chainless at blockchain rio
+- cofounder @ luxy (2021–2022) — multichain NFT marketplace
+
+**personal projects:**
 - [get-shit-pretty](https://github.com/jubscodes/get-shit-pretty) — design engineering for AI coding tools
-- [cyphercn](https://github.com/jubscodes/cyphercn) — retro-styled component registry for shadcn
+- [cyphercn](https://github.com/jubscodes/cyphercn) — retro-styled shadcn component registry
 
-[jubs.studio](https://jubs.studio)
+**stack:** react · typescript · convex · tailwind · shadcn · privy · wagmi
+
+[jubs.studio](https://jubs.studio) · [linkedin](https://www.linkedin.com/in/julia-hoffmann-/)
