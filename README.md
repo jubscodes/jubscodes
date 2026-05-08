@@ -4,7 +4,7 @@ product engineer @ shippit. full-stack on a tokenized real-estate platform (BWB)
 
 **cofounder of:**
 - notus labs (2023–2025, COO) — launched chainless at blockchain rio
-- luxy (2021–2022) — multichain NFT marketplace
+- luxy (2021–2022, project lead) — multichain NFT marketplace
 
 **personal projects:**
 - [get-shit-pretty](https://github.com/jubscodes/get-shit-pretty) — design engineering for AI coding tools
